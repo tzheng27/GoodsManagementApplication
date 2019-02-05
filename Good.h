@@ -1,6 +1,3 @@
-// Final Project Milestone 3
-// Date   Nov 19, 2018
-// Author Tian Zheng 155394174
 
 #ifndef AMA_GOOD_H
 #define AMA_GOOD_H
