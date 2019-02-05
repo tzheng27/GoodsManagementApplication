@@ -1,5 +1,4 @@
-//Name: Tian Zheng     155 394 174
-//ms5
+
 
 #include<iostream>
 #include<fstream>
