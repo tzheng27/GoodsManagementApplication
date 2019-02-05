@@ -1,5 +1,3 @@
-//Name: Tian Zheng     155 394 174
-//ms4
 
 #ifndef AID_IGOOD_H
 #define AID_IGOOD_H
