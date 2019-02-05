@@ -1,14 +1,4 @@
-// Final Project Milestone 1
-//
-// Version 1.0
-// Date   Oct 22, 2018
-// Author Tian Zheng
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
+
 #ifndef AMA_DATE_H
 #define AMA_DATE_H
 
