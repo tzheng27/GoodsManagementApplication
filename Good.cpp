@@ -1,6 +1,4 @@
-// Final Project Milestone 3
-// Date   Nov 19, 2018
-// Author Tian Zheng 155394174
+
 #include <iostream>
 #include <fstream>
 #include <cstring>
