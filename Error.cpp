@@ -1,14 +1,4 @@
-// Final Project Milestone 2
-//
-// Version 1.0
-// Date   Oct 30, 2018
-// Author Tian Zheng
-// Description
-//
-// Revision History
-// -----------------------------------------------------------
-// Name               Date                 Reason
-/////////////////////////////////////////////////////////////////
+
 
 #include <iostream>
 #include <cstring>
